@@ -1,18 +1,16 @@
 # Hi 👋, I'm Cyprian
 
-# --- Polish Below ---
+# Polish Below
 
 ## English
 
 ### 💻 About Me
 
-I'm a .NET Developer with nearly 2 years of commercial experience and a Computer Science student at Collegium Da Vinci in Poznań.
+.NET Developer with 2 years of commercial experience and a Computer Science student at Collegium Da Vinci in Poznań.
 
-I enjoy building complete solutions—from database design and backend architecture to modern frontend applications and deployment.
+I enjoy building complete solutions, from database design and backend architecture to frontend development and deployment.
 
-One of my biggest side projects was co-creating a multiplayer gaming server that reached over **2,000 active players**. My responsibilities included backend development, Lua scripting, and building and maintaining the project's website and web services.
-
-I am comfortable working across the entire development process, from planning and implementation to deployment and maintenance.
+I was also part of a multiplayer gaming project that reached over **2,500 active players**, where I worked on backend systems, Lua scripting, and the project's website.
 
 ---
 
@@ -22,85 +20,38 @@ I am comfortable working across the entire development process, from planning an
 
 **2 years of commercial experience**
 
-* Developing and maintaining business applications in the .NET ecosystem
-* Backend development and API design
-* Database design and optimization
-* Performance improvements and bug fixing
-* Team collaboration using Git and GitHub workflows
+Developing and maintaining business applications, working with .NET, SQL Server, APIs, performance optimization, and team-based development using Git and GitHub.
 
 #### Multiplayer Gaming Project
 
 **Developer**
 
-Part of a team responsible for building and maintaining a multiplayer server project with over **2,500 active players**.
-
-Responsibilities:
+Worked on a multiplayer server project with over **2,500 active players**.
 
 * Backend development
 * Lua scripting
-* Website development and maintenance
-* Integration between game and web systems
-* Supporting and developing features for a large community
+* Website development
+* Game ↔ Web integrations
 
 ---
 
 ### 🛠️ Tech Stack
 
-#### Languages
+**Languages:** C#, C, C++, JavaScript, TypeScript, Lua, T-SQL
 
-* C#
-* C
-* C++
-* JavaScript
-* TypeScript
-* Lua
-* T-SQL
+**Backend:** .NET, ASP.NET, REST API
 
-#### Backend
+**Frontend:** Vue.js, HTML, CSS, JavaScript, TypeScript
 
-* .NET
-* ASP.NET
-* REST API
+**Databases:** SQL Server, PostgreSQL
 
-#### Frontend
-
-* Vue.js
-* HTML
-* CSS
-* JavaScript
-* TypeScript
-
-#### Databases
-
-* Microsoft SQL Server
-* PostgreSQL
-
-#### Tools & Technologies
-
-* Git
-* GitHub
-* Azure DevOps
-* CI/CD
-* Visual Studio
-* Visual Studio Code
+**Tools:** Git, GitHub, Azure DevOps, CI/CD, Visual Studio, VS Code
 
 ---
 
 ### 🎮 Side Projects
 
-#### Godot Development
-
-In my free time, I create small projects and prototypes using the Godot Engine. These projects help me explore software architecture, gameplay systems, and new programming concepts.
-
-#### Full Stack Web Development
-
-I can build complete web applications from scratch:
-
-* Database design
-* Backend architecture
-* API development
-* Frontend implementation
-* Deployment and maintenance
+Creating small projects and game prototypes in Godot, while also developing full-stack web applications from database design to deployment.
 
 ---
 
@@ -111,24 +62,9 @@ Computer Science — 2nd Year Student
 
 ---
 
-### 📈 Currently Learning
-
-* Advanced .NET Development
-* Software Architecture
-* Cloud Technologies
-* Performance Optimization
-* Game Development with Godot
-
----
-
 ### 📫 Contact
-* Email: cyprian.tomczak@gmail.com
 
----
-
-### ⚡ Fun Fact
-
-I enjoy building products from scratch — from database schema and backend architecture to frontend implementation and deployment.
+* Email: [cyprian.tomczak@gmail.com](mailto:cyprian.tomczak@gmail.com)
 
 ## Polish
 
@@ -136,13 +72,11 @@ I enjoy building products from scratch — from database schema and backend arch
 
 ### 💻 O mnie
 
-Jestem programistą .NET z blisko 2-letnim doświadczeniem komercyjnym oraz studentem 2. roku Informatyki w Collegium Da Vinci w Poznaniu.
+Programista .NET z 2-letnim doświadczeniem komercyjnym oraz student 2. roku Informatyki w Collegium Da Vinci w Poznaniu.
 
-Na co dzień zajmuję się tworzeniem i rozwijaniem aplikacji w ekosystemie .NET, jednak moje zainteresowania obejmują znacznie szerszy zakres technologii — od backendu i baz danych, przez nowoczesny frontend, aż po tworzenie gier.
+Lubię tworzyć kompletne rozwiązania — od projektu bazy danych i backendu po frontend oraz wdrożenie aplikacji.
 
-Jednym z moich największych projektów było współtworzenie serwera multiplayer, który zgromadził ponad **2000 aktywnych graczy**. Odpowiadałem za część backendową projektu, skrypty w Lua oraz stworzenie i rozwój strony internetowej wraz z systemami webowymi.
-
-Lubię budować kompletne rozwiązania — od projektu bazy danych i architektury aplikacji, przez implementację backendu i API, aż po nowoczesny frontend oraz wdrożenie gotowego produktu.
+Współtworzyłem również projekt serwera multiplayer, który osiągnął ponad **2500 aktywnych graczy**, odpowiadając za backend, skrypty Lua oraz stronę internetową projektu.
 
 ---
 
@@ -152,85 +86,38 @@ Lubię budować kompletne rozwiązania — od projektu bazy danych i architektur
 
 **2 lata doświadczenia komercyjnego**
 
-* Tworzenie i rozwój aplikacji biznesowych w ekosystemie .NET
-* Praca z bazami danych SQL Server
-* Optymalizacja wydajności aplikacji
-* Rozwijanie istniejących systemów oraz implementacja nowych funkcjonalności
-* Praca zespołowa z wykorzystaniem Git oraz GitHub
+Tworzenie i rozwój aplikacji biznesowych w technologii .NET, praca z SQL Server, API, optymalizacją wydajności oraz zespołowym procesem wytwarzania oprogramowania z wykorzystaniem Git i GitHub.
 
 #### Projekt Multiplayer
 
 **Programista**
 
-Wraz z zespołem współtworzyłem i rozwijałem serwer multiplayer, który osiągnął ponad **2500 aktywnych graczy**.
+Praca przy projekcie serwera multiplayer z ponad **2500 aktywnymi graczami**.
 
-Zakres obowiązków:
-
-* Programowanie backendu
-* Tworzenie skryptów w Lua
-* Tworzenie i utrzymanie strony internetowej projektu
-* Integracja systemów gry z aplikacjami webowymi
-* Rozwój nowych funkcjonalności oraz wsparcie społeczności graczy
+* Backend
+* Lua
+* Strona internetowa
+* Integracje systemów gry z webem
 
 ---
 
 ### 🛠️ Technologie
 
-#### Języki Programowania
+**Języki:** C#, C, C++, JavaScript, TypeScript, Lua, T-SQL
 
-* C#
-* C
-* C++
-* JavaScript
-* TypeScript
-* Lua
-* T-SQL
+**Backend:** .NET, ASP.NET, REST API
 
-#### Backend
+**Frontend:** Vue.js, HTML, CSS, JavaScript, TypeScript
 
-* .NET
-* ASP.NET
-* REST API
+**Bazy danych:** SQL Server, PostgreSQL
 
-#### Frontend
-
-* Vue.js
-* HTML
-* CSS
-* JavaScript
-* TypeScript
-
-#### Bazy Danych
-
-* Microsoft SQL Server
-* PostgreSQL
-
-#### Narzędzia i Technologie
-
-* Git
-* GitHub
-* Visual Studio
-* Visual Studio Code
-* Godot Engine
-* Unity
+**Narzędzia:** Git, GitHub, Azure DevOps, CI/CD, Visual Studio, VS Code, Godot, Unity
 
 ---
 
 ### 🎮 Projekty Poboczne
 
-#### Godot Development
-
-W wolnym czasie tworzę mniejsze projekty oraz prototypy gier w silniku Godot. Pozwala mi to rozwijać umiejętności związane z architekturą oprogramowania, projektowaniem systemów oraz rozwiązywaniem nietypowych problemów.
-
-#### Full Stack Web Development
-
-Potrafię samodzielnie stworzyć kompletną aplikację internetową od podstaw:
-
-* Projektowanie baz danych
-* Tworzenie backendu
-* Projektowanie i implementacja API
-* Tworzenie frontendów w Vue.js
-* Wdrożenie i utrzymanie aplikacji
+Tworzę mniejsze projekty i prototypy gier w Godot oraz rozwijam własne aplikacje webowe typu full stack.
 
 ---
 
@@ -241,21 +128,6 @@ Informatyka — 2. rok studiów
 
 ---
 
-### 📈 Aktualnie Rozwijam
-
-* Zaawansowane zagadnienia .NET
-* Architekturę oprogramowania
-* Technologie chmurowe
-* Optymalizację wydajności aplikacji
-* Tworzenie gier w Godot
-
----
-
 ### 📫 Kontakt
-* Email: cyprian.tomczak@gmail.com
 
----
-
-### ⚡ Ciekawostka
-
-Najbardziej lubię projekty, w których mogę uczestniczyć od początku do końca — od pierwszego pomysłu i projektu bazy danych, aż po wdrożenie gotowego rozwiązania.
+* Email: [cyprian.tomczak@gmail.com](mailto:cyprian.tomczak@gmail.com)
