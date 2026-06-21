@@ -1,6 +1,6 @@
 # Hi 👋, I'm Cyprian
 
-# Polish Below
+# Polish Below / Polski na dole
 
 ## English
 
